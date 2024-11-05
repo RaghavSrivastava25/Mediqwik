@@ -101,7 +101,7 @@ Submissions will be judged based on:
 
 1. **Completeness**: Does it meet all project requirements?
 2. **Functionality**: Do all features work as intended?
-3. **Design Consistency**: The final design must closely match the provided screen recording.
+3. **Design Consistency**: The final design must closely match the provided description.
 
 ---
 
