@@ -1,14 +1,14 @@
 # Mediqwik
 
-https://harmonious-sunshine-e47345.netlify.app/#
-
+- **Demo**: [https://harmonious-sunshine-e47345.netlify.app/#](https://harmonious-sunshine-e47345.netlify.app/#)
+- **Screen Recording**: [https://www.loom.com/share/e97c458c39354241886987f47477d4a1](https://www.loom.com/share/e97c458c39354241886987f47477d4a1)
 
 ### Paid Project: Pharmacy E-commerce Website
 
 ---
 
 ## Project Overview
-Welcome to the Mediqwik project! Your task is to develop the backend and enhance specific frontend functionalities for a pharmacy e-commerce website. We have provided the url to the deployed web app, a screen recording and the frontend code, which you can use as a reference. However, the final submission **must match the provided design exactly**.
+Welcome to the Mediqwik project! Your task is to develop the backend and enhance specific frontend functionalities for a pharmacy e-commerce website. We have provided the URL to the deployed web app, a screen recording, and the frontend code, which you can use as a reference. However, the final submission **must match the provided design exactly**.
 
 ---
 
@@ -39,7 +39,7 @@ Crocin, Calpol, Brufen, Disprin, Cetzine, Zyrtec, Benadryl, Corex, D-Cold Total,
 - **Add to Cart**: Users can select a medicine, specify the quantity, and add it to their cart.
 
 ### 3. Cart Functionality
-- **Cart Display**: Show cart contents including:
+- **Cart Display**: Show cart contents, including:
 - Each item’s name, quantity, and price per strip.
 - **Total Price Calculation**: Calculate the total price as `(quantity x price per strip)`.
 - **Checkout**: Include a checkout option within the cart.
@@ -79,6 +79,7 @@ Set up a database with the following tables and use dummy data where needed:
 ## Deployment
 The web app I’ve created has been deployed at:
 - **Demo Link**: [https://harmonious-sunshine-e47345.netlify.app/#](https://harmonious-sunshine-e47345.netlify.app/#)
+- **Screen Recording**: [https://www.loom.com/share/e97c458c39354241886987f47477d4a1](https://www.loom.com/share/e97c458c39354241886987f47477d4a1)
 
 Your final submission should be deployed similarly. You can use Netlify or any other free hosting service to deploy the app.
 
@@ -106,3 +107,4 @@ Submissions will be judged based on:
 ---
 
 Good luck, and may the best solution win!
+
