@@ -75,6 +75,7 @@ Set up a database with the following tables and use dummy data where needed:
 
 ## Submission Requirements
 
+- **Fork and Star the Project**: Fork this repository and star it (necessary for participation).
 - **Code**: Submit a **zip file** of all code files, organized and documented.
 - **Screen Recording**: Provide a screen recording demonstrating the fully functional web app.
 - **Send Submissions To**:
