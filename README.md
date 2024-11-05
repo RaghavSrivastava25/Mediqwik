@@ -76,6 +76,14 @@ Set up a database with the following tables and use dummy data where needed:
 
 ---
 
+## Deployment
+The web app I’ve created has been deployed at:
+- **Demo Link**: [https://harmonious-sunshine-e47345.netlify.app/#](https://harmonious-sunshine-e47345.netlify.app/#)
+
+Your final submission should be deployed similarly. You can use Netlify or any other free hosting service to deploy the app.
+
+---
+
 ## Submission Requirements
 
 - **Fork and Star the Project**: Fork this repository and star it (necessary for participation).
