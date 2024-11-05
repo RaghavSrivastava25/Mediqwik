@@ -8,7 +8,7 @@ https://harmonious-sunshine-e47345.netlify.app/#
 ---
 
 ## Project Overview
-Welcome to the Mediqwik project! Your task is to develop the backend and enhance specific frontend functionalities for a pharmacy e-commerce website. We have provided a screen recording and the frontend code, which you can use as a reference. However, the final submission **must match the provided design exactly**.
+Welcome to the Mediqwik project! Your task is to develop the backend and enhance specific frontend functionalities for a pharmacy e-commerce website. We have provided the url to the deployed web app, a screen recording and the frontend code, which you can use as a reference. However, the final submission **must match the provided design exactly**.
 
 ---
 
